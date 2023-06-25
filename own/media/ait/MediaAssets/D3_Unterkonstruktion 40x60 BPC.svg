@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800.000" height="600.000" viewBox="0.0 0.0 800.000 600.000" version="1.1">
+  <title>Produce by Acme CAD Converter</title>
+  <desc>Produce by Acme CAD Converter</desc>
+<polyline points="60.52,533.85 81.21,542.42 718.79,542.42 739.48,533.85 755.07,518.27 763.64,497.58 763.64,102.42 755.07,81.73 739.48,66.15 718.79,57.58 81.21,57.58 60.52,66.15 44.93,81.73 36.36,102.42 36.36,497.58 44.93,518.27 60.52,533.85" style="fill:none;stroke:black;stroke-width:0.5"/>
+<polyline points="436.36,148.48 684.85,148.48 684.85,451.52 436.36,451.52 436.36,148.48" style="fill:none;stroke:black;stroke-width:0.5"/>
+<polyline points="115.15,148.48 363.64,148.48 363.64,451.52 115.15,451.52 115.15,148.48" style="fill:none;stroke:black;stroke-width:0.5"/>
+</svg>
